@@ -1,3 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+:root{
+    font-family:  'Ubuntu', sans-serif;
+        
+}
+body{ 
+    background-color: rgb(87, 141, 87)
+
+}
+h1{
+    color: violet;
+}
+h2{
+    color: aqua;
+
+}
+
 .hide {
     display: none;
 }
